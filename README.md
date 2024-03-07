@@ -1,4 +1,4 @@
-I am Staff data engineer with expertise in Spark, SQL, Scala, Python, ETL pipeline creation, job optimization
+I am Staff data engineer with expertise in Spark, SQL, Scala, Python, ETL pipeline creation, job optimization and CICD
 
 - [product_performance](https://github.com/amitpoorab/product_performance): Real-world Problem Solving with Spark: Fully Testable Codebase.
 
