@@ -1,7 +1,3 @@
-# Hello, I'm Amit sharma! 👋
-- 💼 [LinkedIn](linkedin.com/in/ln-amit)
-
-### About Me
 I am Staff data engineer with expertise in Spark, SQL, Scala, Python, ETL pipeline creation, job optimization
 
 - [Project 1](link-to-project1): Short description.
