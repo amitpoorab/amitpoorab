@@ -1,6 +1,6 @@
 I am Staff data engineer with expertise in Spark, SQL, Scala, Python, ETL pipeline creation, job optimization
 
-- [product_performance]: Real-world Problem Solving with Spark: Fully Testable Codebase.
+- [product_performance](https://github.com/amitpoorab/product_performance): Real-world Problem Solving with Spark: Fully Testable Codebase.
 
 <!--
 **amitpoorab/amitpoorab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
