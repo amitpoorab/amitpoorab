@@ -1,13 +1,15 @@
 I am Staff data engineer and tech lead with expertise in Spark, SQL, Scala, Python, ETL pipeline creation, job optimization and CICD
 
-- [product_performance](https://github.com/amitpoorab/product_performance): Real-world Problem Solving with Spark: Fully Testable Codebase.
+- ✔️ I’m currently working on [product_performance](https://github.com/amitpoorab/product_performance): Real-world Problem Solving with Spark: Fully Testable Codebase.
+- 🔭 I’m currently working on ... [stock_price_prediction](https://github.com/amitpoorab/stock_price_prediction) -- Full end to end ETL pipeline (WIP)
+
 
 <!--
 **amitpoorab/amitpoorab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... [stock_price_prediction](https://github.com/amitpoorab/stock_price_prediction)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
